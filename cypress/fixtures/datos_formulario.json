@@ -1,0 +1,13 @@
+{
+  "nombre":          "Cesar",
+  "apellido":        "Narvaez",
+  "email":           "cesar@gmail.com",
+  "genero":          "Male",  
+  "celular":         "3124567894",
+  "fechaNacimiento": "10 May 1995",
+  "materia":         "Maths",
+  "imagen":          "img1.jpg",
+  "direccion":       "Calle 185 20 91",
+  "estado":          "NCR",
+  "ciudad":          "Delhi"
+}
