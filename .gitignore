@@ -1,1 +1,7 @@
-node_modules
+archivo_NO_SUBIR.txt
+
+node_modules/
+*.mp4
+*.jpg
+*.png
+Git/
